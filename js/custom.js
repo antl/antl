@@ -47,13 +47,6 @@ $(function() {
     );
     wow.init();
 
-/* Parallax */
-$(function(){
-			$.stellar({
-				horizontalScrolling: false
-			});
-		});
-
 /* niceScroll */
 jQuery("html").niceScroll({
     scrollspeed: 50,
